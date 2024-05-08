@@ -7,7 +7,7 @@
         {
             "type": "Microsoft.Web/sites",
             "apiVersion": "2021-02-01",
-            "name": "contact-database-app-github-cloudlabsuser-ym",
+            "name": "contact-database-app-github-cloudlabsuser-ymm",
             "location": "[resourceGroup().location]",
             "properties": {
                 "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', 'contact-database-app-plan')]"
